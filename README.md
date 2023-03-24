@@ -1,1 +1,1 @@
-# Scientific_-Machine_Learning
+# Scientific-Machine-Learning
